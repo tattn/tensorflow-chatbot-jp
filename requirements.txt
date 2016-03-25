@@ -1,0 +1,2 @@
+tensorflow==0.7.1
+git+ssh://git@github.com/nicolas-ivanov/Seq2Seq_Upgrade_TensorFlow.git
